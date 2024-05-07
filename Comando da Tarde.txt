@@ -1,0 +1,27 @@
+ Pasta de C:\Users\24153717\Documents\Tarde\Vesionamento
+
+07/05/2024  14:17    <DIR>          .
+07/05/2024  14:17    <DIR>          ..
+07/05/2024  14:17                 0 Comando da Tarde.txt
+07/05/2024  13:31           117.987 sayuriniklim_Vesionamento.pdf
+               2 arquivo(s)        117.987 bytes
+               2 pasta(s)   58.899.329.024 bytes disponíveis
+
+Novo:
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Comando da Tarde.txt
+
+
+C:\Users\24153717\Documents\Tarde\Vesionamento>git add .
+
+C:\Users\24153717\Documents\Tarde\Vesionamento>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Comando da Tarde.txt
+
+Novo 2:
